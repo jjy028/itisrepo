@@ -8,4 +8,4 @@
 창원폴리텍 카페 주소는 [여기 클릭](https://cafe.naver.com/kopochangwon "onmouseover 이벤트 발생시 표시하는 문자")
 +
 +와우!
-+간편합니다.
++간편합니다.간편합니다.
